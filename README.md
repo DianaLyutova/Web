@@ -5,3 +5,5 @@
 ## 2. [Чек-лист](https://docs.google.com/spreadsheets/d/1l-BSad4_4-Jq9CUsNP39CMwuxs_IyBgafFx0m3OfKkk/edit?usp=sharing) 
 
 ## 3. [Ссылка на PDF](https://drive.google.com/file/d/1gNE-USEMFSIcyZMsHLH3RQXGwKj4-HFw/view?usp=sharing)
+
+## 4 [ссылка на отчет](https://app.qase.io/public/report/cc1d459f7f51eaa89de059a7f7949d3c430b5926)
